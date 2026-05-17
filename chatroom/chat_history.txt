@@ -1,0 +1,25 @@
+[11:19:44] Victor (00002): why this code is so hard?
+[11:20:01] Alice (00001): I mean fuck the java
+[11:20:27] Victor (00002): wait thers another person
+[11:21:07] Lisa (00003): come and fuck my ass
+[11:21:16] Lisa (00003): love your penis
+[11:21:23] Victor (00002): wtf
+[11:21:32] Alice (00001): lets play 3p
+[11:21:41] Victor (00002): ok i will do so
+[11:21:49] Victor (00002): exit
+[11:21:55] Lisa (00003): exit
+[11:22:13] Alice (00001): exit
+[15:03:12] bob (00002): hello,victor!
+[15:03:45] victor (00001): hello,bob!
+[15:04:33] lisa (00003): /user
+[15:04:59] lisa (00003): hello,guys
+[21:00:51] jack (00001): helloworld
+[21:01:16] rose (00002): hi
+[21:01:37] rose (00002): how are you
+[21:02:16] bob (00003): /history
+[21:05:37] bob (00001): hello
+[21:05:45] jack (00002): hi
+[21:06:28] rose (00003): how are you
+[21:16:46] rose (00002): hello
+[21:16:53] jack (00001): hi
+[21:17:30] bob (00003): how are you
